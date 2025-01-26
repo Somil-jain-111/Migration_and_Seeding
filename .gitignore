@@ -1,0 +1,13 @@
+/node_modules
+
+.env
+
+/log
+
+/app/public
+
+/app/services/shipmentFunction.js
+
+/app/scripts/
+
+/.vscode
